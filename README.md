@@ -19,7 +19,7 @@ Les pages de Vikidia nous ont été fournies sous la forme de **fichiers indexé
 
 Grâce à ces données, **VikiSearch** permet d'effectuer des recherches basées sur le contenu des pages.
 
-> **💡 Note :** L'archive des fichiers indexés est disponible [**ici**](#) et est à placer à la racine du projet ou bien dans le même dossier que le fichier jar.
+> **💡 Note :** L'archive des fichiers indexés est disponible [**ici**](https://mega.nz/file/TqZiGQqA#rpiFWx62p-OUbSRpOIsstMEAHEN-Ye3Ux35qw5e4HmI) et est à placer à la racine du projet ou bien dans le même dossier que le fichier jar.
 
 📜 **Fonctionnalités clés** :  
 ✔️ **Recherche vectorielle** sur toutes les pages Vikidia  
@@ -105,7 +105,7 @@ Vikidia pages were provided as **indexed files**:
 
 With this data, **VikiSearch** enables content-based searches on all Vikidia pages.
 
-> **💡 Note :** The archive of indexed files is available [**here**](#) and should be placed in the project root or in the same folder as the jar file.
+> **💡 Note :** The archive of indexed files is available [**here**](https://mega.nz/file/TqZiGQqA#rpiFWx62p-OUbSRpOIsstMEAHEN-Ye3Ux35qw5e4HmI) and should be placed in the project root or in the same folder as the jar file.
 
 📜 **Key Features**:  
 ✔️ **Vector-based search** across all Vikidia pages  
