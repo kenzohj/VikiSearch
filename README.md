@@ -1,8 +1,8 @@
 # 🔍 VikiSearch (2023)
 
 <div style="display:flex;">
-  <img src="https://github.com/kenzohj/VikiSearch/blob/main/home_page.png" alt="Home page" width="500" />
-  <img src="https://github.com/kenzohj/VikiSearch/blob/main/result_page.png" alt="Result page" width="500" />
+  <img src="https://github.com/kenzohj/VikiSearch/blob/main/home_page.png" alt="Home page" width="400" />
+  <img src="https://github.com/kenzohj/VikiSearch/blob/main/result_page.png" alt="Result page" width="400" />
 </div>
 
 **🇫🇷 Français | [🇬🇧 English below](#-english-version-)**
