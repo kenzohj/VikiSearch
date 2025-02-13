@@ -1,5 +1,10 @@
 # 🔍 VikiSearch (2023)
 
+<p align="center">
+  <img src="https://github.com/kenzohj/VikiSearch/blob/main/home_page.png" alt="Home page" width="500" />
+  <img src="https://github.com/kenzohj/VikiSearch/blob/main/result_page.png" alt="Result page" width="500" />
+</p>
+
 **🇫🇷 Français | [🇬🇧 English below](#-english-version-)**
 
 ---
@@ -48,7 +53,7 @@ Chaque recherche est sauvegardée dans l'historique affiché à droite de l'inte
 🌐 **Interface web réalisée par** [Ye4hL0w](https://github.com/Ye4hL0w)
 
 📸 **Aperçu** :  
-![Mode 1](image_du_mode_1.png)
+![Mode 1](https://github.com/kenzohj/VikiSearch/blob/main/mode_1.png)
 
 ---
 
@@ -63,7 +68,7 @@ java -jar VikiSearch.jar
 L'utilisateur peut taper `exit` pour quitter le programme.
 
 📸 **Aperçu** :  
-![Mode 2](image_du_mode_2.png)
+![Mode 2](https://github.com/kenzohj/VikiSearch/blob/main/mode_2.png)
 
 ---
 
@@ -78,7 +83,7 @@ java -jar VikiSearch.jar mot1 mot2 mot3
 Une fois le programme terminé, un fichier **log.html** est généré contenant l'historique des requêtes.
 
 📸 **Aperçu** :  
-![Mode 3](image_du_mode_3.png)
+![Mode 3](https://github.com/kenzohj/VikiSearch/blob/main/mode_3.png)
 
 ---
 
@@ -134,7 +139,7 @@ Each search is saved in the search history on the right panel.
 🌐 **Web interface developed by** [Ye4hL0w](https://github.com/Ye4hL0w)
 
 📸 **Preview** :  
-![Mode 1](image_du_mode_1.png)
+![Mode 1](https://github.com/kenzohj/VikiSearch/blob/main/mode_1.png)
 
 ---
 
@@ -149,7 +154,7 @@ java -jar VikiSearch.jar
 The user can type `exit` to stop the program.
 
 📸 **Preview**:  
-![Mode 2](image_du_mode_2.png)
+![Mode 2](https://github.com/kenzohj/VikiSearch/blob/main/mode_2.png)
 
 ---
 
@@ -164,7 +169,7 @@ java -jar VikiSearch.jar word1 word2 word3
 Once the program exits, a **log.html** file is generated containing the search history.
 
 📸 **Preview**:  
-![Mode 3](image_du_mode_3.png)
+![Mode 3](https://github.com/kenzohj/VikiSearch/blob/main/mode_3.png)
 
 ---
 
