@@ -1,0 +1,13 @@
+.DS_STORE
+.idea/
+out/
+
+gradle/
+.gradle/
+gradlew
+gradlew.bat
+build/
+
+logs/
+INDEX/
+INDEX_FILES/

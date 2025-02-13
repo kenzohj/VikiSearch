@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8"/>
+    <title>VikiSearch</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+        * {
+            overflow: hidden;
+            font-family:'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+            background-position: fixed;
+        }
+
+        body {
+            background-image: url("https://i.ibb.co/Q6B27VW/nebula-1920x1080.png");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            backdrop-filter: blur(25px);
+
+            height: 100vh;
+            margin: 0;
+        }
+
+        h1 {
+            text-align: center;
+            color: white;
+            margin-top: 10%;
+            font-size: 400%;
+        }
+
+        form {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        }
+
+        form > input:first-child {
+            width: 30%;
+            padding: 16px;
+
+            border-radius: 24px;
+            border: 1px solid transparent;
+            cursor: text;
+        }
+
+        form > input:first-child:focus {
+            outline: none;
+        }
+
+        form > input:last-child {
+            display: none;
+        }
+
+        form > label {
+            height: 16px;
+            width: 16px;
+            padding: 8px;
+
+            color: white;
+            border: 1px solid white;
+            border-radius: 25px;
+            cursor: pointer;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <h1>VikiSearch</h1>
+
+    <form action="/submit" method="GET">
+        <input type="text" name="searchQuery" placeholder="Rechercher...">
+        <label for="submit"><i class="fa-solid fa-magnifying-glass"></i></label>
+        <input type="submit" value="" id="submit">
+    </form>
+
+</body>
+</html>
